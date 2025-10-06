@@ -1,4 +1,4 @@
-# Inventory-management-and-ABC-Analysis
+# Inventory-management-and-ABC-Analysis / Meterial management and cost analysis
 
 This project focuses on optimizing inventory control using ABC analysis and key performance metrics. The goal is to identify critical items that drive business value, reduce excess stock, and improve overall supply chain efficiency.
 
