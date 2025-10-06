@@ -20,11 +20,11 @@ Visualization & Reporting: Clear dashboards and analysis for monitoring inventor
 
 🔧 Tools & Technologies
 
-Power BI / Excel 
+Excel 
 
 Data Cleaning & Transformation
 
-KPI Development (Inventory Turnover, Carrying Cost, Stockout Risk,store analysis, warehouse analysis, delivery analysis, product and orders analysis)
+KPI Development (Inventory Turnover, Carrying Cost, Stockout Risk,store analysis)
 
 📈 Outcomes
 
@@ -67,7 +67,7 @@ Dashboards & Reports – clear visual representation of inventory performance.
 
 🔧 Tools & Technologies
 
-Power BI / Excel – Data visualization & reporting
+ Excel – Data visualization & reporting
 
 📈 Business Outcomes
 
@@ -78,8 +78,6 @@ Power BI / Excel – Data visualization & reporting
 
 📂 Repository Structure
 ├── data/                # Raw and cleaned datasets  
-├── scripts/             # Python or SQL scripts for analysis  
-├── reports/             # Power BI dashboards or Excel reports  
 ├── visuals/             # Charts and ABC plots  
 └── README.md            # Project documentation  
 
